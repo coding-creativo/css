@@ -32,3 +32,18 @@ h2 {
 #html {
     background-color: #dff759;
 }
+
+a:link, 
+a:visited {
+    text-decoration: none;
+    color:rgb(1, 63, 42);
+    font-weight: 800;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
+}
